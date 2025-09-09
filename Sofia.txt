@@ -1,0 +1,2 @@
+Ana Sofía Zarate.
+Lo que aprendí hasta ahora en GitHub es cómo crear repositorios, clonar, hacer commits y subir cambios.
